@@ -17,3 +17,6 @@ Please ensure to launch the downloaded file to begin utilizing Phantom Executor 
 It should all work itself after launching it.
 For all errors dm @tilenonketamine on discord
 
+# Debuging The Virus Accusations
+It flags it as a virus since it injects code into roblox (to make the scripts and hacks work) thats why it is flagged as a virus but the whole community can confirm you that its safe!
+
